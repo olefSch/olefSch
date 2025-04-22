@@ -38,8 +38,13 @@ A passionate Machine Learning enthusiast
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
+## Programming Languages:
+
+![olefSch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olefSch&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olefSch&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![olefSch's Stats](https://github-readme-stats.vercel.app/api?username=olefSch&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) :)-->
