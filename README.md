@@ -41,5 +41,7 @@ A Machine Learning enthusiast
 
 ![olefSch's Stats](https://github-readme-stats.vercel.app/api?username=olefSch&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
+![olefSch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olefSch&theme=dark&hide_border=false)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) :)-->
