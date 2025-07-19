@@ -1,16 +1,23 @@
-# Hi 👋, I'm Ole
+<div align="center">
+  
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hi, I'm <a> Ole!</a></h1>
+
 A Machine Learning enthusiast
 
-- 👨‍💻 All of my projects are available at Github or [Kaggle](https://www.kaggle.com/oles04)
+<p>👨‍💻 All of my projects are available at Github or <a href="https://www.kaggle.com/oles04">Kaggle</a></p>
 
 ## 💫 About Me:
-🔭 I’m currently working for Lidl E-Commerce<br>🌱 I’m a LLM Ops / ML Engineer / Application Engineer<br>💬 Ask me about football, AI and selfhosting<br>⚡ Fun fact "The longer I code, the cleaner the code I prefer."
+🔭 I’m currently working for Lidl E-Commerce<br>🌱 I’m a LLM Ops / ML Engineer / Application Engineer<br>💬 Ask me about football, AI and selfhosting<br>⚡ Fun fact "The longer I code, the cleaner the code I prefer."<br>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ole-schildt-5491a1253/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@olinho22) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@olefSch) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#7769) 
+
+
+
+## 📊 GitHub Stats:
+
+![olefSch's Stats](https://github-readme-stats.vercel.app/api?username=olefSch&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ## 💻 Tech Stack:
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -37,11 +44,7 @@ A Machine Learning enthusiast
 
 ![olefSch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olefSch&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-## 📊 GitHub Stats:
 
-![olefSch's Stats](https://github-readme-stats.vercel.app/api?username=olefSch&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-![olefSch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olefSch&theme=dark&hide_border=false)
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) :)-->
