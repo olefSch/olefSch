@@ -7,7 +7,7 @@ A Machine Learning enthusiast
 <p>👨‍💻 All of my projects are available at Github or <a href="https://www.kaggle.com/oles04">Kaggle</a></p>
 
 ## 💫 About Me:
-🔭 I’m currently working for Lidl E-Commerce<br>🌱 I’m a LLM Ops / ML Engineer / Application Engineer<br>💬 Ask me about football, AI and selfhosting<br>⚡ Fun fact "The longer I code, the cleaner the code I prefer."<br>
+🔭 I’m currently working for Lidl E-Commerce<br>🌱 I’m a MLOps / Application Engineer<br>⚡ More on my <a href="https://ole-schildt.com">website</a><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ole-schildt-5491a1253/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@olefSch) 
